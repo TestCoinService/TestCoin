@@ -1,2 +1,10 @@
 # TestCoin
-MY TTT
+
+INSTALL #
+..
+.
+.
+.
+.
+.....
+
